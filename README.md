@@ -26,7 +26,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 ## **Dashboard**
 
-![Alt text of the image](https://github.com/Noorulain718/Interactive-Excel-Dashboard-for-Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Dashboard.png">dashboard interactive</a> and dynamic.)
+![Alt text of the image](https://github.com/Noorulain718/Interactive-Excel-Dashboard-for-Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Dashboard.png")
 
 
 ## **Project Insight**
