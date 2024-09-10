@@ -4,8 +4,6 @@
 
 The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023.
 
-## **Dataset used**
-
 
 ## **Questions (KPIs)**
 
@@ -23,10 +21,12 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make <a href="https://github.com/Noorulain718/Interactive-Excel-Dashboard-for-Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Dashboard.png">dashboard interactive</a> and dynamic.
+  
 
 ## **Dashboard**
 
-
+![Alt text of the image](https://github.com/Noorulain718/Interactive-Excel-Dashboard-for-Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Dashboard.png">dashboard interactive</a> and dynamic.)
 
 
 ## **Project Insight**
@@ -40,12 +40,3 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 ## **Final Conclusion:**
 To boost sales at Vrinda Store, focus on targeting women aged 30-49 in Maharashtra, Karnataka, and Uttar Pradesh by promoting ads, offers, and coupons available on Amazon, Flipkart, and Myntra.
-
-
-
-
-
-
-
-
-- Merge all pivot tables into one dashboard and apply slicer to make
